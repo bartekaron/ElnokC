@@ -12,3 +12,10 @@ C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.AssemblyRefere
 C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.exe
 C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.pdb
+D:\Suli\ElnokC\elnok_BA\elnok_BA\bin\Debug\elnok_BA.exe.config
+D:\Suli\ElnokC\elnok_BA\elnok_BA\bin\Debug\elnok_BA.exe
+D:\Suli\ElnokC\elnok_BA\elnok_BA\bin\Debug\elnok_BA.pdb
+D:\Suli\ElnokC\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.AssemblyReference.cache
+D:\Suli\ElnokC\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.CoreCompileInputs.cache
+D:\Suli\ElnokC\elnok_BA\elnok_BA\obj\Debug\elnok_BA.exe
+D:\Suli\ElnokC\elnok_BA\elnok_BA\obj\Debug\elnok_BA.pdb

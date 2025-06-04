@@ -1,0 +1,58 @@
+using System;
+using elnok_BA; // Make sure your namespace is accessible
+using MySql.Data.MySqlClient; // Required for MySQL
+
+namespace YourConsoleApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Setup database connection details
+            string host = "localhost";    // Or your server's IP
+            string user = "root";         // Your MySQL user
+            string pass = "password";     // Your MySQL password
+            string dbname = "yourdle";    // Your database name
+
+            // Initialize dbClass
+            dbClass db = new dbClass(host, user, pass, dbname);
+
+            // ---------------- EXAMPLES ----------------
+            // Insert a record into `items`
+            string[] insertFields = { "ID", "name", "age", "height" };
+            string[] insertValues = { "1", "John Doe", "30", "180" };
+            db.insert("items", insertFields, insertValues);
+            Console.WriteLine($"Inserted rows: {db.AffectedRows}");
+
+            // Select all items
+            db.selectAll("items");
+            Console.WriteLine("All items:");
+            while (db.results.Read())
+            {
+                Console.WriteLine($"ID: {db.results["ID"]}, Name: {db.results["name"]}, Age: {db.results["age"]}, Height: {db.results["height"]}");
+            }
+            db.results.Close(); // Always close the reader
+
+            // Select where age > 25
+            db.select("items", "age", "25", "gt");
+            Console.WriteLine("Items with age > 25:");
+            while (db.results.Read())
+            {
+                Console.WriteLine($"Name: {db.results["name"]}");
+            }
+            db.results.Close();
+
+            // Update John Doe's height to 185
+            string[] updateFields = { "height" };
+            string[] updateValues = { "185" };
+            db.update("items", "name", "John Doe", updateFields, updateValues);
+            Console.WriteLine($"Updated rows: {db.AffectedRows}");
+
+            // Delete entry where name = John Doe
+            db.delete("items", "name", "'John Doe'");
+            Console.WriteLine($"Deleted rows: {db.AffectedRows}");
+
+            Console.WriteLine("Done!");
+        }
+    }
+}
