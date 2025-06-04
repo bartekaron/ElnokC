@@ -1,0 +1,14 @@
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\bin\Debug\elnok_BA.exe.config
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\bin\Debug\elnok_BA.exe
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\bin\Debug\elnok_BA.pdb
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.AssemblyReference.cache
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.CoreCompileInputs.cache
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\obj\Debug\elnok_BA.exe
+D:\bartekaron\03_elnokok\elnok_BA\elnok_BA\obj\Debug\elnok_BA.pdb
+C:\Users\User\Desktop\elnok_BA\elnok_BA\bin\Debug\elnok_BA.exe.config
+C:\Users\User\Desktop\elnok_BA\elnok_BA\bin\Debug\elnok_BA.exe
+C:\Users\User\Desktop\elnok_BA\elnok_BA\bin\Debug\elnok_BA.pdb
+C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.exe
+C:\Users\User\Desktop\elnok_BA\elnok_BA\obj\Debug\elnok_BA.pdb
