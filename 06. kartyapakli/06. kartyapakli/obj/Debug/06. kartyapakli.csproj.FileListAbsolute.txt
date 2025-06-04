@@ -1,0 +1,7 @@
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\bin\Debug\_06.kartyapakli.exe.config
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\bin\Debug\_06.kartyapakli.exe
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\bin\Debug\_06.kartyapakli.pdb
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\obj\Debug\06. kartyapakli.csproj.AssemblyReference.cache
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\obj\Debug\06. kartyapakli.csproj.CoreCompileInputs.cache
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\obj\Debug\_06.kartyapakli.exe
+D:\Suli\Aszaf\Elkészített feladatok\06. kartyapakli\06. kartyapakli\obj\Debug\_06.kartyapakli.pdb

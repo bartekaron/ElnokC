@@ -1,0 +1,7 @@
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\bin\Debug\_05.feladat.exe.config
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\bin\Debug\_05.feladat.exe
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\bin\Debug\_05.feladat.pdb
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\obj\Debug\05. feladat.csproj.AssemblyReference.cache
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\obj\Debug\05. feladat.csproj.CoreCompileInputs.cache
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\obj\Debug\_05.feladat.exe
+D:\Suli\Aszaf\Elkészített feladatok\05. feladat\05. feladat\obj\Debug\_05.feladat.pdb

@@ -1,0 +1,2 @@
+123123;Személy;Audi;Tigris;0
+134124;Afrika;Én;Te;13223

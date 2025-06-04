@@ -1,0 +1,30 @@
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\bin\Debug\Autobérlés.exe.config
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\bin\Debug\Autobérlés.exe
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\bin\Debug\Autobérlés.pdb
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.AssemblyReference.cache
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.Form1.resources
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.Properties.Resources.resources
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.GenerateResource.cache
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.CoreCompileInputs.cache
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.exe
+H:\Aszaf\12\2024 Jan\Autobérlés\Autobérlés\obj\Debug\Autobérlés.pdb
+C:\Users\User\Downloads\Autobérlés\Autobérlés\bin\Debug\Autobérlés.exe.config
+C:\Users\User\Downloads\Autobérlés\Autobérlés\bin\Debug\Autobérlés.exe
+C:\Users\User\Downloads\Autobérlés\Autobérlés\bin\Debug\Autobérlés.pdb
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.Form1.resources
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.Properties.Resources.resources
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.exe
+C:\Users\User\Downloads\Autobérlés\Autobérlés\obj\Debug\Autobérlés.pdb
+D:\Suli\Aszaf\Autobérlés\Autobérlés\bin\Debug\Autobérlés.exe.config
+D:\Suli\Aszaf\Autobérlés\Autobérlés\bin\Debug\Autobérlés.exe
+D:\Suli\Aszaf\Autobérlés\Autobérlés\bin\Debug\Autobérlés.pdb
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.AssemblyReference.cache
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.Form1.resources
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.Properties.Resources.resources
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.GenerateResource.cache
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.csproj.CoreCompileInputs.cache
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.exe
+D:\Suli\Aszaf\Autobérlés\Autobérlés\obj\Debug\Autobérlés.pdb
